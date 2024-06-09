@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+p {text-align: center;}
